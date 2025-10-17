@@ -24,7 +24,8 @@ The dashboard lets users explore:
 
 ## Architecture
 
-Adzuna API → Extract (Python Requests)
+Adzuna API → 
+Extract (Python Requests)
 
 ↓
 Transform (Pandas)
