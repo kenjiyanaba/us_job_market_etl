@@ -25,10 +25,13 @@ The dashboard lets users explore:
 ## Architecture
 
 Adzuna API → Extract (Python Requests)
+
 ↓
 Transform (Pandas)
+
 ↓
 Load (CSV)
+
 ↓
 Visualize (Streamlit Dashboard)
 
